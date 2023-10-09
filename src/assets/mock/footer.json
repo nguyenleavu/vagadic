@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Customer Care",
+        "categories": [
+            { "id": 1, "title": "Support Center" },
+            { "id": 2, "title": "Delivery & Returns" },
+            { "id": 3, "title": "Terms & Conditions" },
+            { "id": 4, "title": "Products Return" },
+            { "id": 5, "title": "Wholesale Policy" }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Quick Shop",
+        "categories": [
+            { "id": 1, "title": "Pagination" },
+            { "id": 2, "title": "About Us" },
+            { "id": 3, "title": "Contact Us" },
+            { "id": 4, "title": "Investors Site" },
+            { "id": 5, "title": "Term of use" }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Company",
+        "categories": [
+            { "id": 1, "title": "Help Center" },
+            { "id": 2, "title": "Address Store" },
+            { "id": 3, "title": "Privacy Policy" },
+            { "id": 4, "title": "Receivers & Amplifiers" },
+            { "id": 5, "title": "Store Locations" }
+        ]
+    }
+]

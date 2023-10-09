@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "image": "https://vegadic-store-demo.myshopify.com/cdn/shop/files/instagram1.jpg?v=14828766131826224059"
+    },
+    {
+        "id": 2,
+        "image": "https://vegadic-store-demo.myshopify.com/cdn/shop/files/instagram2.jpg?v=9606792458147030817"
+    },
+    {
+        "id": 3,
+        "image": "https://vegadic-store-demo.myshopify.com/cdn/shop/files/instagram3.jpg?v=8234680420249497642"
+    },
+    {
+        "id": 4,
+        "image": "https://vegadic-store-demo.myshopify.com/cdn/shop/files/instagram4.jpg?v=10152556072388443481"
+    },
+    {
+        "id": 5,
+        "image": "https://vegadic-store-demo.myshopify.com/cdn/shop/files/instagram5.jpg?v=17137937857643557910"
+    },
+    {
+        "id": 6,
+        "image": "https://vegadic-store-demo.myshopify.com/cdn/shop/files/instagram6.jpg?v=15065222663974852097"
+    },
+    {
+        "id": 7,
+        "image": "https://vegadic-store-demo.myshopify.com/cdn/shop/files/instagram7.jpg?v=13349244452827031598"
+    },
+    {
+        "id": 8,
+        "image": "https://vegadic-store-demo.myshopify.com/cdn/shop/files/instagram8.jpg?v=12986709528450956558"
+    },
+    {
+        "id": 9,
+        "image": "https://vegadic-store-demo.myshopify.com/cdn/shop/files/instagram9.jpg?v=15380367728500646192"
+    },
+    {
+        "id": 10,
+        "image": "https://vegadic-store-demo.myshopify.com/cdn/shop/files/instagram10.jpg?v=14848574069331954571"
+    }
+]
